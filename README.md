@@ -4,3 +4,4 @@ My solutions of programming assessments from "[Algorithms, Part II](https://www.
 WordNet -- Completed in 96%, without BFS optimization.
 <br/> SeamCarver -- Completed in 100%.
 <br/> Baseball Elimination -- Completed in 100%.
+<br/> Boggle -- Completed in 100%.
