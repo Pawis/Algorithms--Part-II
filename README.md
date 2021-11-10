@@ -1,8 +1,9 @@
 # Algorithms--Part-II
-My solutions of programming asigments from "[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)" course of Princeton University
 
-WordNet -- Completed in 96%, without BFS optimization.
-<br/> SeamCarver -- Completed in 100%.
-<br/> Baseball Elimination -- Completed in 100%.
-<br/> Boggle -- Completed in 100%.
-<br/> Burrows-Wheeler -- Completed in 96%.
+Moje rozwiazania zadan z kursu ["Algorithms, Part II"](https://www.coursera.org/learn/algorithms-part2) od Princeton University
+
+WordNet -- Zaliczone na 96%, bez optymatyzacji BFS.
+<br/> SeamCarver -- Zaliczone na 100%.
+<br/> Baseball Elimination -- Zaliczone na 100%.
+<br/> Boggle -- Zaliczone na 100%.
+<br/> Burrows-Wheeler -- Zaliczone na 96%.
